@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Constantly Underwhelmed",
     "description": "",
-    "home_page_url": "https://constantlyunderwhelmed.com",
-    "feed_url": "https://constantlyunderwhelmed.com/feed.json",
+    "home_page_url": "http://constantlyunderwhelmed.com",
+    "feed_url": "http://constantlyunderwhelmed.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Elio Grieco"
