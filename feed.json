@@ -9,5 +9,39 @@
         "name": "Elio Grieco"
     },
     "items": [
+        {
+            "id": "https://www.constantlyunderwhelmed.com/posts/hard-vs-easy-languages/",
+            "url": "https://www.constantlyunderwhelmed.com/posts/hard-vs-easy-languages/",
+            "title": "Hard vs Easy Languages",
+            "summary": "Rust/Haskell/OCaml/Idris/et. al. are “hard” because they force you to understand the whole problem you are solving with your code. “Easy” languages are generally easy because they let you do stupid things that you or your users will pay for at runtime.",
+            "content_html": "<p><a href=\"https://www.rust-lang.org/\">Rust</a>/<a href=\"https://www.haskell.org/\">Haskell</a>/<a href=\"https://ocaml.org/\">OCaml</a>/<a href=\"https://www.idris-lang.org/\">Idris</a>/et. al. are <strong>“hard”</strong> because they force you to understand the whole problem you are solving with your code. <strong>“Easy”</strong> languages are generally easy because they let you do stupid things that you or your users will pay for at runtime.</p>",
+            "author": {
+                "name": "Elio Grieco"
+            },
+            "tags": [
+                   "type systems",
+                   "runtime errors",
+                   "programming languages"
+            ],
+            "date_published": "2022-10-23T14:41:00-07:00",
+            "date_modified": "2024-09-08T22:59:24-07:00"
+        },
+        {
+            "id": "https://www.constantlyunderwhelmed.com/posts/more-training/",
+            "url": "https://www.constantlyunderwhelmed.com/posts/more-training/",
+            "title": "More Training",
+            "summary": "This quote applies equally well to cybersecurity, software design, and the broader tech industry: The insight that “Every system is perfectly designed to get the results it gets,” together with its corollary, “If we keep doing what we’ve been doing, we’ll keep getting what we’ve&hellip;",
+            "content_html": "<p>This quote applies equally well to cybersecurity, software design, and the broader tech industry:</p><blockquote>\n<p>The insight that “Every system is perfectly designed to get the results it gets,” together with its corollary, “If we keep doing what we’ve been doing, we’ll keep getting what we’ve been getting,” provide profound insight for mitigating the problem of unwarranted practice variation. Healthcare leaders too often identify “re-education” as a solution to a multitude of problems. <strong>A solution like “re-education” rests on the assumption that the system itself is not the problem. Without changing the causal system, the leaders will likely find that a need for “re-education” keeps recurring.</strong> Among the sample of ideas presented for what to do differently to mitigate unwarranted practice variation: In general, design systems so that doing the right thing is the easiest way to do the work; a checklist is one example. Confirm that assumed processes indeed exist and unfold predictably and within desired limits.</p></blockquote>\n<p><a href=\"https://link.springer.com/chapter/10.1007/978-3-030-94655-5_19\">Source</a>: Schulman, J. (2022). “Every System Is Perfectly Designed to Get the Results It Gets”. In: Schulman, J. (eds) The Problem of Practice Variation in Newborn Medicine. Springer, Cham. <a href=\"https://doi.org/10.1007/978-3-030-94655-5_19\">https://doi.org/10.1007/978-3-030-94655-5_19</a></p>",
+            "author": {
+                "name": "Elio Grieco"
+            },
+            "tags": [
+                   "training",
+                   "systems thinking",
+                   "cybersecurity"
+            ],
+            "date_published": "2022-10-20T08:46:00-07:00",
+            "date_modified": "2024-09-08T22:56:51-07:00"
+        }
     ]
 }
