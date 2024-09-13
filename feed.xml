@@ -3,12 +3,37 @@
     <title>Constantly Underwhelmed</title>
     <link href="https://www.constantlyunderwhelmed.com/feed.xml" rel="self" />
     <link href="https://www.constantlyunderwhelmed.com" />
-    <updated>2024-09-08T22:59:24-07:00</updated>
+    <updated>2024-09-13T03:26:06-07:00</updated>
     <author>
         <name>Elio Grieco</name>
     </author>
     <id>https://www.constantlyunderwhelmed.com</id>
 
+    <entry>
+        <title>Mars Barred</title>
+        <author>
+            <name>Elio Grieco</name>
+        </author>
+        <link href="https://www.constantlyunderwhelmed.com/posts/mars-barred/"/>
+        <id>https://www.constantlyunderwhelmed.com/posts/mars-barred/</id>
+            <category term="space travel"/>
+            <category term="mars"/>
+            <category term="cold showers"/>
+
+        <updated>2024-09-13T03:23:28-07:00</updated>
+            <summary>
+                <![CDATA[
+                    On what type of timeframe were you imagining that the shoebox of lichen you send to Mars was going to transform Frozen Airless Radioactive Desert Hell into a place where people could grow wheat? People have this idea that life is like some kind of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>On what type of timeframe were you imagining that the shoebox of lichen you send to Mars was going to transform Frozen Airless Radioactive Desert Hell into a place where people could grow wheat?</p><p>People have this idea that life is like some kind of magical force; that the reason Mars does not have life is that life has not yet gone there; that once life goes to a place, then it just figures out how to go on living there. This, I think, is a consequence of more people having gotten their science education from the movie character Ian Malcolm than from actual science classes. More generously, it is a testament to humans having formulated nearly all of their ideas about the nature of life from the absolute easiest (and only known) place to have life.</p></blockquote>
+<p>Source: <a href="https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars">Neither Elon Musk Nor Anybody Else Will Ever Colonize Mars</a></p><p>And <a href="https://www.youtube.com/watch?v=JDh2QTYYA6o">The Mars crisis, explained by 2 experts</a> covers even more reasons that we’re not going to Mars (from the writers of <a href="https://www.smbc-comics.com/">Saturday Morning Breakfast Cereal Comics</a>).</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hard vs Easy Languages</title>
         <author>

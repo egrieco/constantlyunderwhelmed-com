@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://www.constantlyunderwhelmed.com/posts/mars-barred/",
+            "url": "https://www.constantlyunderwhelmed.com/posts/mars-barred/",
+            "title": "Mars Barred",
+            "summary": "On what type of timeframe were you imagining that the shoebox of lichen you send to Mars was going to transform Frozen Airless Radioactive Desert Hell into a place where people could grow wheat? People have this idea that life is like some kind of&hellip;",
+            "content_html": "<blockquote>\n<p>On what type of timeframe were you imagining that the shoebox of lichen you send to Mars was going to transform Frozen Airless Radioactive Desert Hell into a place where people could grow wheat?</p><p>People have this idea that life is like some kind of magical force; that the reason Mars does not have life is that life has not yet gone there; that once life goes to a place, then it just figures out how to go on living there. This, I think, is a consequence of more people having gotten their science education from the movie character Ian Malcolm than from actual science classes. More generously, it is a testament to humans having formulated nearly all of their ideas about the nature of life from the absolute easiest (and only known) place to have life.</p></blockquote>\n<p>Source: <a href=\"https://defector.com/neither-elon-musk-nor-anybody-else-will-ever-colonize-mars\">Neither Elon Musk Nor Anybody Else Will Ever Colonize Mars</a></p><p>And <a href=\"https://www.youtube.com/watch?v=JDh2QTYYA6o\">The Mars crisis, explained by 2 experts</a> covers even more reasons that we’re not going to Mars (from the writers of <a href=\"https://www.smbc-comics.com/\">Saturday Morning Breakfast Cereal Comics</a>).</p>",
+            "author": {
+                "name": "Elio Grieco"
+            },
+            "tags": [
+                   "space travel",
+                   "mars",
+                   "cold showers"
+            ],
+            "date_published": "2024-09-13T03:23:28-07:00",
+            "date_modified": "2024-09-13T03:26:06-07:00"
+        },
+        {
             "id": "https://www.constantlyunderwhelmed.com/posts/hard-vs-easy-languages/",
             "url": "https://www.constantlyunderwhelmed.com/posts/hard-vs-easy-languages/",
             "title": "Hard vs Easy Languages",
