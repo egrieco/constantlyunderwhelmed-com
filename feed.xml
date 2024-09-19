@@ -3,12 +3,64 @@
     <title>Constantly Underwhelmed</title>
     <link href="https://www.constantlyunderwhelmed.com/feed.xml" rel="self" />
     <link href="https://www.constantlyunderwhelmed.com" />
-    <updated>2024-09-13T03:26:06-07:00</updated>
+    <updated>2024-09-18T17:54:37-07:00</updated>
     <author>
         <name>Elio Grieco</name>
     </author>
     <id>https://www.constantlyunderwhelmed.com</id>
 
+    <entry>
+        <title>A Toast to Jamstack</title>
+        <author>
+            <name>Elio Grieco</name>
+        </author>
+        <link href="https://www.constantlyunderwhelmed.com/posts/a-toast-to-jamstack/"/>
+        <id>https://www.constantlyunderwhelmed.com/posts/a-toast-to-jamstack/</id>
+            <category term="static websites"/>
+            <category term="small web"/>
+            <category term="jamstack"/>
+
+        <updated>2024-09-17T21:47:31-07:00</updated>
+            <summary>
+                <![CDATA[
+                    While most websites have gotten extremely complicated and bloated over the last 15 years, it’s still possible to create a site that is fast, small, and secure by default. Jamstack is a combination of JavaScript, APIs and Markup that can be used to make a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>While most websites have gotten extremely complicated and bloated over the last 15 years, it’s still possible to create a site that is fast, small, and secure by default. <a href="https://jamstack.org/">Jamstack</a> is a combination of JavaScript, APIs and Markup that can be used to make a static website with dynamic features provided by third party services.</p><p>There are plenty of <a href="https://jamstack.org/generators/">Static Site Generators (SSG)</a> (355 listed when this was published) that can help build your site in pretty much every imaginable language. And there are also a number of <a href="https://jamstack.org/headless-cms/">Headless CMSs</a> that can be used to make editing of the site content easy for non-software-developers.</p><h2 id="publii">Publii</h2>
+<p>One of the easiest SSGs is <a href="https://getpublii.com/">Publii</a>. It’s a free, open source, and local first program that runs on your machine. It’s excellent for non-technical users or those wanting a graphical way to edit their content. This blog is currently created using Publii since I wanted to give it a good test.</p><p>The biggest drawback is integration with other programs. Publii does not yet allow post-build scripts to be run automatically. It does have a plugin system, but building a Publii plugin is more suited to software developers than average users. Though there are some nice plugins available already.</p><h2 id="soupault">Soupault</h2>
+<p>On the other end of the spectrum is <a href="https://soupault.app/">Soupault</a>. It is by far the most flexible and powerful SSG that I’ve ever used, my current experience being Jekyll, Nanoc, Middleman, and Zola. (And long ago WordPress…but we won’t talk of such horrors here.)</p><p>Soupault has a unique philosophy of “modify HTML with HTML” that makes it incredibly powerful. With most SSGs at some point you start running into the wall of how they were intended to be used vs. what you need them to do. Soupault can be extended in virtually any way you can imagine.</p><h2 id="other-ssgs">Other SSGs</h2>
+<ul>
+<li><a href="https://jekyllrb.com/">Jekyll</a></li>
+<li><a href="https://nanoc.app/">Nanoc</a></li>
+<li><a href="https://middlemanapp.com/">Middleman</a></li>
+<li><a href="https://www.getzola.org/">Zola</a></li>
+</ul>
+<h2 id="other-tools">Other Tools</h2>
+<p><a href="https://crates.io/crates/statical">Statical</a> is a calendar generator for static sites. It is intended to be used in a “Static Site Generator chain” (<a href="https://cloudcannon.com/blog/introducing-pagefind/#our-solution%3A-pagefind">credit to CloudCannon for the term</a>). An example chain might look like the following:</p><ol>
+<li>soupault (or your favorite static site generator)</li>
+<li>statical</li>
+<li>Pagefind (or tinysearch, stork, orama, or similar)</li>
+<li>Jampack</li>
+<li>deploy or sync your site</li>
+</ol>
+<h2 id="other-ssg-chain-tools">Other SSG Chain Tools</h2>
+<h3 id="static-site-search">Static Site Search</h3>
+<ul>
+<li><a href="https://pagefind.app/">Pagefind</a></li>
+<li><a href="https://github.com/tinysearch/tinysearch">tinysearch</a></li>
+<li><a href="https://github.com/jameslittle230/stork">stork</a></li>
+<li><a href="https://github.com/askorama/orama">orama</a></li>
+</ul>
+<h3 id="static-site-optimization">Static Site Optimization</h3>
+<ul>
+<li><a href="https://jampack.divriots.com/">Jampack</a></li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mars Barred</title>
         <author>
